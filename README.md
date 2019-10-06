@@ -34,7 +34,7 @@ module. The following will add a dependency to the full library:
 <!---ImageAttachmentDialogr--->
 ```gradle
 dependencies {
-	         implementation 'com.github.khizar1556:ImageAttachmentDialog:-SNAPSHOT'
+	         implementation 'com.github.khizar1556:ImageAttachmentDialog:1.0'
 	}
 ```
 
