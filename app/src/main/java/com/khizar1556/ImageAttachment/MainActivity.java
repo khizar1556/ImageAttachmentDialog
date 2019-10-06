@@ -1,4 +1,4 @@
-package com.khizar1556.ImageAttachmentLibrary;
+package com.khizar1556.ImageAttachment;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
