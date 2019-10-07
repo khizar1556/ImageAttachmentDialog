@@ -1,5 +1,5 @@
 # ImageAttachmentDialog
-Image Attachment Dialog is library that will allow you to select image from gallery or camera and compressed it and give it to you size will reduce
+Image Attachment Dialog is library that will allow you to select image from gallery or camera and compressed it and give it to you size will reduce.I designed it to get compressed files for retrofit
 
 # Screenshots:
 <!---ImageAttachmentDialog--->
@@ -11,7 +11,7 @@ Image Attachment Dialog is library that will allow you to select image from gall
 2. Capture image using Camera
 3. Select Image From Gallery
 4. Callbacks gives file and bitmaps
-5.Also Give Compressed Files and Bitmaps
+5. Also Give Compressed Files and Bitmaps
 
 # How to add Library into Your project
 <!---ImageAttachmentDialog--->
